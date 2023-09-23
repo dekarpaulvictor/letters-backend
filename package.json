@@ -1,7 +1,7 @@
 {
   "name": "letters-backend",
   "version": "1.0.0",
-  "description": "",
+  "description": "A backend for the letters app",
   "main": "src/index.js",
   "scripts": {
     "lint": "eslint src/**/*.js",
